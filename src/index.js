@@ -139,3 +139,4 @@ function startObserver() {
 function stopObserver() {
   scrollObserver.unobserve(binds.loader); 
 }
+
